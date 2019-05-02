@@ -1,4 +1,4 @@
-# fordidi
+# vue-vant
 
 ## Project setup
 ```
